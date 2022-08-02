@@ -1,0 +1,15 @@
+D:\Test\Assignment.App\SFTPService\bin\Debug\net6.0\SFTPService.deps.json
+D:\Test\Assignment.App\SFTPService\bin\Debug\net6.0\SFTPService.dll
+D:\Test\Assignment.App\SFTPService\bin\Debug\net6.0\SFTPService.pdb
+D:\Test\Assignment.App\SFTPService\bin\Debug\net6.0\Assignment.Entities.dll
+D:\Test\Assignment.App\SFTPService\bin\Debug\net6.0\Assignment.Entities.pdb
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\SFTPService.csproj.AssemblyReference.cache
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\SFTPService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\SFTPService.AssemblyInfoInputs.cache
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\SFTPService.AssemblyInfo.cs
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\SFTPService.csproj.CoreCompileInputs.cache
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\SFTPService.csproj.CopyComplete
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\SFTPService.dll
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\refint\SFTPService.dll
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\SFTPService.pdb
+D:\Test\Assignment.App\SFTPService\obj\Debug\net6.0\ref\SFTPService.dll

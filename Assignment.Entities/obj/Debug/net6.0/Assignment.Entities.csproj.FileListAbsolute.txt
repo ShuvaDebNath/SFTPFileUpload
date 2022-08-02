@@ -1,0 +1,14 @@
+D:\Test\Assignment.App\Assignment.Entities\bin\Debug\net6.0\Assignment.Entities.deps.json
+D:\Test\Assignment.App\Assignment.Entities\bin\Debug\net6.0\Assignment.Entities.runtimeconfig.json
+D:\Test\Assignment.App\Assignment.Entities\bin\Debug\net6.0\Assignment.Entities.dll
+D:\Test\Assignment.App\Assignment.Entities\bin\Debug\net6.0\Assignment.Entities.pdb
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\Assignment.Entities.csproj.AssemblyReference.cache
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\Assignment.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\Assignment.Entities.AssemblyInfoInputs.cache
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\Assignment.Entities.AssemblyInfo.cs
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\Assignment.Entities.csproj.CoreCompileInputs.cache
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\Assignment.Entities.dll
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\refint\Assignment.Entities.dll
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\Assignment.Entities.pdb
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\Assignment.Entities.genruntimeconfig.cache
+D:\Test\Assignment.App\Assignment.Entities\obj\Debug\net6.0\ref\Assignment.Entities.dll

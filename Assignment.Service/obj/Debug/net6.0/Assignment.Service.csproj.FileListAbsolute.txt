@@ -1,0 +1,17 @@
+D:\Test\Assignment.App\Assignment.Service\bin\Debug\net6.0\Assignment.Service.deps.json
+D:\Test\Assignment.App\Assignment.Service\bin\Debug\net6.0\Assignment.Service.dll
+D:\Test\Assignment.App\Assignment.Service\bin\Debug\net6.0\Assignment.Service.pdb
+D:\Test\Assignment.App\Assignment.Service\bin\Debug\net6.0\Assignment.Entities.dll
+D:\Test\Assignment.App\Assignment.Service\bin\Debug\net6.0\Assignment.Repository.dll
+D:\Test\Assignment.App\Assignment.Service\bin\Debug\net6.0\Assignment.Entities.pdb
+D:\Test\Assignment.App\Assignment.Service\bin\Debug\net6.0\Assignment.Repository.pdb
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\Assignment.Service.csproj.AssemblyReference.cache
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\Assignment.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\Assignment.Service.AssemblyInfoInputs.cache
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\Assignment.Service.AssemblyInfo.cs
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\Assignment.Service.csproj.CoreCompileInputs.cache
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\Assignment.Service.csproj.CopyComplete
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\Assignment.Service.dll
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\refint\Assignment.Service.dll
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\Assignment.Service.pdb
+D:\Test\Assignment.App\Assignment.Service\obj\Debug\net6.0\ref\Assignment.Service.dll
